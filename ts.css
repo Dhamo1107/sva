@@ -70,7 +70,7 @@ p {
 .brand h1 {
 	font-size: 3rem;
 	text-transform: uppercase;
-	color: transparent;
+	color: rgb(245, 242, 242);
 }
 .brand h1 span {
 	color: crimson;
